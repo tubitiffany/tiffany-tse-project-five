@@ -7,6 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -15,10 +16,11 @@ code {
 .App {
   max-width: 1000px;
   margin: 0 auto;
+  width: 90%;
 }
 
 h1 {
-  margin: 150px 0px 50px 0px;
+  margin: 50px 0px 50px 0px;
 }
 
 h2 {
@@ -51,6 +53,11 @@ ul {
   line-height: 30px;
   position: absolute;
   left: 26%;
-  max-width: 600px;
   text-align: left;
+}
+
+@media (max-width: 900px) {
+  ul {
+    left: 10%;
+  }
 }
