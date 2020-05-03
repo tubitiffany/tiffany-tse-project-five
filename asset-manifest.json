@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tubitiffany/tiffany-tse-project-five/static/css/main.167f4ffe.chunk.css",
+    "main.js": "/tubitiffany/tiffany-tse-project-five/static/js/main.e1ef2800.chunk.js",
+    "main.js.map": "/tubitiffany/tiffany-tse-project-five/static/js/main.e1ef2800.chunk.js.map",
+    "runtime-main.js": "/tubitiffany/tiffany-tse-project-five/static/js/runtime-main.2a7aa7ec.js",
+    "runtime-main.js.map": "/tubitiffany/tiffany-tse-project-five/static/js/runtime-main.2a7aa7ec.js.map",
+    "static/js/2.729b9354.chunk.js": "/tubitiffany/tiffany-tse-project-five/static/js/2.729b9354.chunk.js",
+    "static/js/2.729b9354.chunk.js.map": "/tubitiffany/tiffany-tse-project-five/static/js/2.729b9354.chunk.js.map",
+    "index.html": "/tubitiffany/tiffany-tse-project-five/index.html",
+    "precache-manifest.a801e94caff05c0f580d5ba749fd6625.js": "/tubitiffany/tiffany-tse-project-five/precache-manifest.a801e94caff05c0f580d5ba749fd6625.js",
+    "service-worker.js": "/tubitiffany/tiffany-tse-project-five/service-worker.js",
+    "static/css/main.167f4ffe.chunk.css.map": "/tubitiffany/tiffany-tse-project-five/static/css/main.167f4ffe.chunk.css.map",
+    "static/js/2.729b9354.chunk.js.LICENSE.txt": "/tubitiffany/tiffany-tse-project-five/static/js/2.729b9354.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a7aa7ec.js",
+    "static/js/2.729b9354.chunk.js",
+    "static/css/main.167f4ffe.chunk.css",
+    "static/js/main.e1ef2800.chunk.js"
+  ]
+}
