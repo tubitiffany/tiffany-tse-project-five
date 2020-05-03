@@ -6,7 +6,7 @@ class Header extends Component {
         return (
             <header>
                 <h1>Ingredient Substitution Finder</h1>
-                <p>Enter the missing ingredient from your recipe and we'll provide you with possible substitutions! </p>
+                <p>Enter the ingredient you're missing to see if there's anything you can use to substitute it with!</p>
             </header>
         )
     }

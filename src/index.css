@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 150px 0px 50px 0px;
+}
+
+h2 {
+  margin-top: 50px;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+
+Header p,
+Form input,
+div p {
+  font-size: 1.2rem;
+}
+
+Form button {
+  background: greenyellow;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 1rem;
+  border: 1px solid grey;
+  margin-left: 5px;
+}
+
+div {
+  position: relative;
+}
+
+
+ul {
+  line-height: 30px;
+  position: absolute;
+  left: 26%;
+  max-width: 600px;
+  text-align: left;
+}
